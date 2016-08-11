@@ -1,0 +1,72 @@
+body {
+	background-image: url("myweb.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: 100% auto
+}
+
+/* unvisited link */
+a:link {
+	color: purple;
+	font-size: 30px;
+	font-family:
+}
+
+/* visited link */
+a:visited {
+	color: purple;
+	font-size: 30px;
+	font-family:
+}
+
+/* mouse over link */
+ a:hover {
+	color: teal;
+	font-size: 30px;
+	font-family:
+}
+
+/* selected link */
+a:active {
+	 color: blue;
+	 font-size: 30px;
+	font-family:
+}
+
+h1{
+	font-family: "Brush Script MT Italic";
+	font-size: 30px
+}
+
+head{
+	font-family: "Brush Script MT Italic";
+	font-size: 30px
+}
+
+body{
+	font-family: "Brush Script MT Italic";
+	font-size: 30px
+}
+
+ul{
+	font-family: "Brush Script MT Italic";
+	font-size: 30px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
